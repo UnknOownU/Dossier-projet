@@ -1,0 +1,44 @@
+# Directories
+.idea/                    # Paramètres de configuration de WebStorm
+node_modules/             # Dépendances Node.js
+dist/                     # Dossier de distribution pour les builds
+out/                      # Dossier de sortie pour les builds
+coverage/                 # Dossier de couverture de tests
+
+# Logs
+logs/
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Environment variables
+.env
+.env.local
+.env.*.local
+
+# Temporary files
+*.tmp
+*.temp
+
+# MacOS generated files
+.AppleDouble
+.LSOverride
+
+# WebStorm specific
+.idea/
+*.iml
+workspace.xml
+tasks.xml
+shelf/
+*.ipr
+*.iws
+
+# Exclude build artifacts and compiled code
+build/
+tmp/
+temp/
