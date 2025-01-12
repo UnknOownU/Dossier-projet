@@ -1,6 +1,5 @@
 # Dossier Projet
-
-Bienvenue dans **Dossier Projet** ! Ce projet est structuré pour faciliter le développement, la documentation et la maintenance.
+**Dossier Projet** ! Ce projet est structuré pour faciliter le développement, la documentation et la maintenance.
 
 ## Arborescence du projet
 
@@ -12,7 +11,7 @@ Bienvenue dans **Dossier Projet** ! Ce projet est structuré pour faciliter le d
 - [.github/](#github)
   - [workflows/](#workflows)
     - [ci.yml](#ciyml) : Déploiement continu.
-
+---
 ### Dossiers principaux
 
 - [docs/](#docs)
@@ -47,32 +46,4 @@ Bienvenue dans **Dossier Projet** ! Ce projet est structuré pour faciliter le d
       - [screenshots-demo/](#screenshots-demo)
         - [demo-step1.png](#demo-step1png)
       - [code-complet/](#code-complet)
-
-- [src/](#src)
-  - [front/](#front)
-    - [package.json](#packagejson)
-    - [src/](#src-1)
-      - [components/](#components)
-      - [pages/](#pages)
-    - [public/](#public)
-  - [back/](#back)
-    - [package.json](#packagejson-1) *(ou requirements.txt)*
-    - [src/](#src-2)
-      - [main/](#main)
-      - [test/](#test)
-    - [config/](#config)
-  - [database/](#database)
-    - [scripts/](#scripts)
-      - [init_db.sql](#init_dbsql)
-      - [insert_data.sql](#insert_datasql)
-    - [migrations/](#migrations)
-      - [001-create-tables.sql](#001-create-tablesql)
-
-- [tests/](#tests)
-  - [unit/](#unit)
-  - [integration/](#integration)
-  - [e2e/](#e2e)
-
-## Notes
-
-Cette structure est conçue pour maximiser la clarté et faciliter la navigation grâce aux ancres.
+---
