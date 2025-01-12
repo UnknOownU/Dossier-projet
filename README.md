@@ -3,17 +3,6 @@
 
 ## Arborescence du projet
 
-### Racine du projet
-
-- [README.md](#readme)
-- [.gitignore](#gitignore)
-- [LICENSE](#license) *(optionnel)*
-- [.github/](#github)
-  - [workflows/](#workflows)
-    - [ci.yml](#ciyml) : Déploiement continu.
----
-### Dossiers principaux
-
 - [docs/](#docs)
   - [SimplonCommunity/](#simploncommunity)
     - [0_Introduction/](#0_introduction)
