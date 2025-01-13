@@ -7,53 +7,53 @@ Ce projet est organisé en plusieurs dossiers pour structurer le développement,
 ## 📖 Arborescence du Projet
 
 ### **0. Introduction**
-- [00 - Introduction](0_Introduction/00-introduction.md)
-- [01 - Liste des compétences](0_Introduction/01-liste-competences.md)
-- [02 - Expression des besoins](0_Introduction/02-expression-besoins.md)
+- [00 - Introduction](docs/SimplonCommunity/0_Introduction/00-introduction.md)
+- [01 - Liste des compétences](docs/SimplonCommunity/0_Introduction/01-liste-competences.md)
+- [02 - Expression des besoins](docs/SimplonCommunity/0_Introduction/02-expression-besoins.md)
 
 ---
 
 ### **1. Specifications**
-- [03 - Problématiques](1_Specifications/03-Problematique.md)
-- [04 - Règles de gestion](1_Specifications/04-Regles-de-gestion.md)
-- [05 - Exigences](1_Specifications/05-Exigences.md)
-- [06 - Cas d’utilisation](1_Specifications/06-use-case.md)
+- [03 - Problématiques](docs/SimplonCommunity/1_Specifications/03-Problematique.md)
+- [04 - Règles de gestion](docs/SimplonCommunity/1_Specifications/04-Regles-de-gestion.md)
+- [05 - Exigences](docs/SimplonCommunity/1_Specifications/05-Exigences.md)
+- [06 - Cas d’utilisation](docs/SimplonCommunity/1_Specifications/06-use-case.md)
 
 ---
 
 ### **2. Architecture**
-- [07 - Architecture logicielle](2_Architecture/07-architecture-logicielle.md)
-- [08 - Dictionnaire de données](2_Architecture/08-dictionnaire-de-donnees.md)
-- [09 - Scripts SQL](2_Architecture/09-script-sql.md)
-- [10 - Diagrammes de séquence](2_Architecture/10-diagrammes-sequence.md)
+- [07 - Architecture logicielle](docs/SimplonCommunity/2_Architecture/07-architecture-logicielle.md)
+- [08 - Dictionnaire de données](docs/SimplonCommunity/2_Architecture/08-dictionnaire-de-donnees.md)
+- [09 - Scripts SQL](docs/SimplonCommunity/2_Architecture/09-script-sql.md)
+- [10 - Diagrammes de séquence](docs/SimplonCommunity/2_Architecture/10-diagrammes-sequence.md)
 
 ---
 
 ### **3. Implementation**
-- [11 - Spécifications techniques](3_Implementation/11-specifications-techniques.md)
-- [12 - Extraits de code](3_Implementation/12-extraits-code.md)
-- [13 - Sécurité de l’application](3_Implementation/13-securite-application.md)
+- [11 - Spécifications techniques](docs/SimplonCommunity/3_Implementation/11-specifications-techniques.md)
+- [12 - Extraits de code](docs/SimplonCommunity/3_Implementation/12-extraits-code.md)
+- [13 - Sécurité de l’application](docs/SimplonCommunity/3_Implementation/13-securite-application.md)
 
 ---
 
 ### **4. Tests et Finalisation**
-- [14 - Tests](4_TestsEtFinal/14-tests.md)
-- [15 - Jeu d’essai](4_TestsEtFinal/15-jeu-d-essai.md)
-- [16 - Veille technologique](4_TestsEtFinal/16-veille-technologique.md)
+- [14 - Tests](docs/SimplonCommunity/4_TestsEtFinal/14-tests.md)
+- [15 - Jeu d’essai](docs/SimplonCommunity/4_TestsEtFinal/15-jeu-d-essai.md)
+- [16 - Veille technologique](docs/SimplonCommunity/4_TestsEtFinal/16-veille-technologique.md)
 
 ---
 
 ### **5. Annexes**
 #### Diagrammes
-- [MCD (Modèle Conceptuel de Données)](annexes/diagrammes/MCD.png)
-- [MLD (Modèle Logique de Données)](annexes/diagrammes/MLD.png)
-- [UML (Diagramme UML)](annexes/diagrammes/UML.png)
+- [MCD (Modèle Conceptuel de Données)](docs/SimplonCommunity/annexes/diagrammes/MCD.png)
+- [MLD (Modèle Logique de Données)](docs/SimplonCommunity/annexes/diagrammes/MLD.png)
+- [UML (Diagramme UML)](docs/SimplonCommunity/annexes/diagrammes/UML.png)
 
 #### Maquettes
-- **Dossier des maquettes** : Disponible dans [annexes/maquettes/](annexes/maquettes/).
+- **Dossier des maquettes** : Disponible dans [docs/SimplonCommunity/annexes/maquettes/](docs/SimplonCommunity/annexes/maquettes/).
 
 #### Screenshots Demo
-- **Captures d’écran** : Disponible dans [annexes/screenshots-demo/](annexes/screenshots-demo/).
+- **Captures d’écran** : Disponible dans [docs/SimplonCommunity/annexes/screenshots-demo/](docs/SimplonCommunity/annexes/screenshots-demo/).
 
 ---
 
@@ -100,4 +100,3 @@ Finalisation et validation :
   - Captures d’écran pour illustrer les étapes ou résultats clés.
 
 ---
-
